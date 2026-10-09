@@ -1,0 +1,3 @@
+John Doe,1,collector
+Jane Smith,2,administrator
+Bob Johnson,3,collector

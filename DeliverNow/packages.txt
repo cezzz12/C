@@ -1,0 +1,12 @@
+Alice Brown|Main Street|123|5.0,8.0|false
+Bob Thompson|Oak Avenue|456|12.0,15.0|false
+Carol Davis|Elm Street|789|28.0,32.0|true
+Daniel Miller|Pine Street|321|-18.0,25.0|false
+Emma Wilson|Rose Street|654|-28.0,-15.0|false
+Frank Johnson|Maple Avenue|987|22.0,28.0|false
+Grace Lee|Park Lane|147|8.0,12.0|true
+Henry Clark|Cedar Avenue|258|-25.0,35.0|false
+Ivy Martinez|Birch Lane|369|-22.0,28.0|false
+Jack Taylor|Lily Avenue|741|-32.0,-18.0|false
+Kate Anderson|Main Street|852|3.0,6.0|false
+Leo Garcia|Oak Avenue|963|15.0,18.0|false

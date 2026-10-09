@@ -1,0 +1,2 @@
+Betelgeuse,Orion,88,7,900
+Alkaid,Ursa Major,206,49,4
